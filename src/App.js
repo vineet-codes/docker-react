@@ -6,7 +6,9 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>I was changed by Vineet Singh!!!</p>
+        <p>
+          I was changed by Vineet Singh!!!, now we are integrating travis ci
+        </p>
         <a
           className='App-link'
           href='https://reactjs.org'
