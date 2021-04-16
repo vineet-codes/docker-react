@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className='App-logo' alt='logo' />
         <p>
           I was changed by Vineet Singh!!!, now we are integrating travis ci,
-          deployed via travis.
+          deployed via travis. Hello AWS Beanstalk
         </p>
         <a
           className='App-link'
